@@ -4,8 +4,8 @@ Deliverables
 
 DOCKER
 1. Link to dockerfile file rather than a screen capture.
-
-
+[Link](Dockerfile)
+       
 2. Running docker instance as shown by a ps command.
 ![Screen Capture #2](images/1-2.jpg)
 
@@ -24,10 +24,10 @@ DOCKER COMPOSE - MYSQL ONLY
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
 1. Updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
-
+[Link](newconfig/docker-compose.yml)
 
 2. Updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
-
+[Link](newconfig/application-mysql.properties)
 
 3. The output from the docker-compose up command.
 ![Screen Capture #9](images/3-3.jpg)
