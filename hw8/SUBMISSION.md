@@ -2,7 +2,7 @@ Kuangyi Zhang 1850648
 
 Deliverables
 
-DOCKER
+## DOCKER
 1. Link to dockerfile file rather than a screen capture.
 [Link](Dockerfile)
        
@@ -12,7 +12,7 @@ DOCKER
 3. Browser accessing the main page of the website from your local container
 ![Screen Capture #3](images/1-3.jpg)
 
-DOCKER COMPOSE - MYSQL ONLY
+## DOCKER COMPOSE - MYSQL ONLY
 1. The output from the docker-compose up command.
 ![Screen Capture #4](images/2-1.jpg)
 
@@ -22,7 +22,7 @@ DOCKER COMPOSE - MYSQL ONLY
 3. A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
 ![Screen Capture #6](images/2-3.jpg)
 
-DOCKER COMPOSE - APP SERVER AND MYSQL
+## DOCKER COMPOSE - APP SERVER AND MYSQL
 1. Updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
 [Link](newconfig/docker-compose.yml)
 
